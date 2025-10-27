@@ -48,7 +48,7 @@ Project Desa is a project developed to assist in the management and digitalizati
 # Clone repository
 git clone https://github.com/Mondayszz/project-desa.git
 
-# Masuk ke direktori project
+# Masuk ke direktori proyek
 cd project-desa
 
 # Ikuti langkah instalasi lebih lanjut sesuai kebutuhan proyek
